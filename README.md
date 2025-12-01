@@ -1,52 +1,26 @@
-# Ciao, sono Christian! 👋
+# Christian
 
-### Backend Developer | Costruttore di fondamenta solide
+> *"La complessità è nemica dell'esecuzione. L'eleganza è la soluzione."*
 
-Come il mio avatar, credo nell'eleganza del codice ben strutturato e nella sostanza dietro l'apparenza. Sono un Backend Developer attivo dal **2020**, specializzato nel far funzionare le cose dietro le quinte, là dove conta davvero.
-
-Ho costruito la mia esperienza su tecnologie enterprise robuste, e ora sto portando quella solidità nel mondo moderno dello sviluppo cloud-native.
+Backend Developer con 4+ anni di esperienza. Specializzato nella modernizzazione di stack enterprise.
 
 ---
 
-### 🛠️ Il mio Arsenale Tecnologico
+### 🛠 Tech Stack
 
-Non seguo solo le mode, padroneggio gli strumenti.
+![Java](https://img.shields.io/badge/Java_8-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JSF](https://img.shields.io/badge/JSF-Legacy_Mastery-d4af37?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Loading...-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**🔸 Le Fondamenta (Enterprise Core)**
-Queste sono le tecnologie su cui ho costruito sistemi complessi e resilienti negli ultimi anni.
-* ☕ **Java 8**: La roccia su cui si basa gran parte del backend aziendale.
-* 🌐 **JSF (JavaServer Faces)**: Per interfacce server-side robuste e collaudate.
-* 🗄️ **SQL & Database Relazionali**: Dove i dati prendono forma.
-
-**🔸 L'Evoluzione (Current Focus)**
-Perché accontentarsi? Sto aggiornando il mio stack per affrontare sfide moderne.
-* 🍃 **Spring Boot**: Il mio attuale focus di studio intensivo per creare microservizi agili e moderni.
-* 🐳 **Docker & Containers**: (Opzionale: aggiungi se lo stai studiando) Per pacchettizzare e spedire con stile.
+### ⚡ Cosa sto facendo ora
+* 🔄 **Refactoring Mentale:** Traduco pattern JSF in REST Controller moderni.
+* 📚 **Learning:** Approfondimento su *Spring Data JPA* e *Spring Security*.
+* 🚀 **Goal:** Portare la robustezza di Java 8 nella flessibilità di Spring Boot 3.
 
 ---
-
-### 🎯 Cosa sto cercando
-
-Sono interessato a ruoli che mi permettano di sfruttare la mia solida esperienza in Java enterprise, mentre continuo la transizione verso architetture basate su Spring Boot e microservizi. Mi piacciono le sfide complesse che richiedono soluzioni eleganti.
-
-<br>
-
-<div align="center">
-
-[Tuo Sito Web/Portfolio](https://www.boarbyte.dev) • [LinkedIn](https://link-al-tuo-linkedin) • [Email](christian.esposito96@gmail.com)
-
+<div align="left">
+  <a href="https://linkedin.com/in/TUO-LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
-<!--
-**zuzzorellone/zuzzorellone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
