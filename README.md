@@ -1,7 +1,5 @@
 # Ciao, sono Christian! 👋
 
-<img src="./avatar.png" align="right" width="180px" alt="My Dapper Avatar">
-
 ### Backend Developer | Costruttore di fondamenta solide
 
 Come il mio avatar, credo nell'eleganza del codice ben strutturato e nella sostanza dietro l'apparenza. Sono un Backend Developer attivo dal **2020**, specializzato nel far funzionare le cose dietro le quinte, là dove conta davvero.
