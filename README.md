@@ -33,7 +33,7 @@ Sono interessato a ruoli che mi permettano di sfruttare la mia solida esperienza
 
 <div align="center">
 
-[Tuo Sito Web/Portfolio](https://link-al-tuo-sito) • [LinkedIn](https://link-al-tuo-linkedin) • [Email](mailto:tua-email@example.com)
+[Tuo Sito Web/Portfolio](https://www.boarbyte.dev) • [LinkedIn](https://link-al-tuo-linkedin) • [Email](christian.esposito96@gmail.com)
 
 </div>
 <!--
