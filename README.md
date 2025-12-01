@@ -2,25 +2,29 @@
 
 > *"La complessità è nemica dell'esecuzione. L'eleganza è la soluzione."*
 
-Backend Developer con 4+ anni di esperienza. Specializzato nella modernizzazione di stack enterprise.
+### Backend Developer | Dal Legacy al Cloud
+
+Sono uno sviluppatore che bada alla sostanza. Dal 2020 costruisco e mantengo il "motore" delle applicazioni aziendali. 
+La mia filosofia è semplice: il codice deve essere elegante, robusto e, soprattutto, funzionante.
 
 ---
 
-### 🛠 Tech Stack
+### 🔸 Il mio percorso
 
-![Java](https://img.shields.io/badge/Java_8-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JSF](https://img.shields.io/badge/JSF-Legacy_Mastery-d4af37?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Loading...-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**2020 — Oggi: La Solida Base Enterprise**
+Ho affinato le mie capacità in ambienti complessi dove l'errore non è contemplato.
+* ☕ **Java 8**: Il linguaggio con cui sono nato.
+* 🌐 **JSF (JavaServer Faces)**: Sviluppo di interfacce server-side su applicativi aziendali con forte traffico
+* 🗄️ **Database Relazionali**: Gestione dati critica e ottimizzazione query.
 
-### ⚡ Cosa sto facendo ora
-* 🔄 **Refactoring Mentale:** Traduco pattern JSF in REST Controller moderni.
-* 📚 **Learning:** Approfondimento su *Spring Data JPA* e *Spring Security*.
-* 🚀 **Goal:** Portare la robustezza di Java 8 nella flessibilità di Spring Boot 3.
+**Oggi — Futuro: L'Aggiornamento Strategico**
+Non mi siedo sugli allori. Sto portando la mia esperienza verso architetture moderne.
+* 🍃 **Spring Boot**: Attualmente in fase di studio avanzato e applicazione in progetti personali.
+* ☁️ **Microservices**: Transizione da monoliti a servizi distribuiti.
 
 ---
-<div align="left">
-  <a href="https://linkedin.com/in/TUO-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+
+### 🔶 Contattami
+Se cerchi qualcuno che conosca il passato del web (JSF) ma parli la lingua del futuro (Spring), parliamone.
+
+[🔗 Sito](https://www.boarbyte.dev) • [📧 Email](mailto:christian.esposito96@gmail.com)
